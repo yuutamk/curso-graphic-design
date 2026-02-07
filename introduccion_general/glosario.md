@@ -1,6 +1,6 @@
 # Introducción al diseño gráfico
 
-![portada](../src/img/grafico.jpg)
+![portada](../src/intro/grafico.jpg)
 
 Bienvenido a tu primera sesión. Si estás aquí es porque quieres dejar de "hacer dibujos" y empezar a comunicar visualmente. Como tu mentor, mi trabajo no es solo enseñarte a usar herramientas, sino a educar tu ojo clínico.
 
@@ -10,7 +10,7 @@ El diseño gráfico no es decoración; es un lenguaje. Vamos a desglosar los cim
 
 ### El Boceto: El Mapa de Guerrilla
 
-![boceto](../src/img/boceto.jpg)
+![boceto](../src/intro/boceto.jpg)
 
 Técnicamente, el **boceto** es un esquema simplificado (ya sea en papel o digital) que captura la estructura medular de una idea en cuestión de segundos o minutos. Solo debe contener los trazos esenciales para que el concepto sea comprensible.
 
@@ -25,28 +25,28 @@ Aquí es donde la técnica se encuentra con la intuición. Estos elementos son l
 * **El Color:** Se trata de manejar el espectro visible y los neutros para establecer jerarquías y captar la atención. Técnicamente, es una herramienta para inyectar emoción en el diseño.
 * *La clave:* Piensa en el color como el "clima" de tu diseño; puede hacer que un mensaje se sienta frío y profesional o cálido y acogedor.
 
-    ![color](../src/img/color.jpg)
+    ![color](../src/intro/color.jpg)
 
 * **Las Líneas:** Son el trayecto físico entre dos coordenadas. Sirven para subrayar conceptos o tejer conexiones entre distintos elementos.
 * *La clave:* Son las "flechas" invisibles. Úsalas para decirle al espectador exactamente hacia dónde tiene que mirar.
 
-    ![lineas](../src/img/lineas.jpg)
+    ![lineas](../src/intro/lineas.jpg)
 
 * **El Tamaño y la Escala:** Es la dimensión de un objeto y su relación con los demás. Un objeto de mayor tamaño se percibe automáticamente como más relevante.
 * *La clave:* Es el volumen de tu voz. Lo que hagas más grande es lo que estás gritando a los cuatro vientos.
 
-    ![tamaño y escala](../src/img/tamaño_escala.jpg)
+    ![tamaño y escala](../src/intro/tamaño_escala.jpg)
 
 * **La Tipografía:** No es solo elegir una letra bonita; es gestionar la disposición y estética de las fuentes para asegurar la legibilidad y transmitir sentimientos.
 * *La clave:* Es la "voz" que lee tu texto. Una fuente puede sonar como un abogado serio o como un amigo contándote un chiste.
 
-    ![tipografia](../src/img/tipografia.png)
+    ![tipografia](../src/intro/tipografia.png)
 
 ---
 
 ### El Orden del Diseño: Alineación y Jerarquía
 
-![alineacion y geografia](../src/img/alineacion_jerarquia.jpg)
+![alineacion y geografia](../src/intro/alineacion_jerarquia.jpg)
 Un diseño sin orden es solo ruido visual. Aquí aplicamos la lógica estructural:
 
 * **Alineación:** Es la disposición técnica de los elementos en el canvas. Si algo no está alineado, el ojo lo detecta como un error molesto. Es lo que separa a un profesional de un aficionado.
@@ -59,7 +59,7 @@ Básicamente, la jerarquía es la coreografía del diseño. Tú decides quién e
 
 ### Estructura de Control: Retículas y Guías
 
-![reticulas y guias](../src/img/reticulas_guias.jpg)
+![reticulas y guias](../src/intro/reticulas_guias.jpg)
 
 Para que tus piezas tengan equilibrio, usamos sistemas de medición:
 
@@ -72,7 +72,7 @@ Míralo así: la retícula es el esqueleto de tu diseño. No se ve, pero es lo q
 
 ### El Árbol Genealógico de las Marcas
 
-![taxonomia de marca](../src/img/taxonomia_marca.webp)
+![taxonomia de marca](../src/intro/taxonomia_marca.webp)
 
 Aprende a diferenciar las especies en el ecosistema de la identidad visual:
 
@@ -104,7 +104,7 @@ Guarda estas imágenes. En nuestra próxima sesión, las analizaremos y verás c
 
 ## El Diseño Gráfico: Cuando la Función y la Forma se Dan la Mano
 
-![diseño grafico](../src/img/diseño.webp)
+![diseño grafico](../src/intro/diseño.webp)
 
 Hoy vamos un paso más allá: vamos a entender **qué es el diseño en su esencia** y cómo el diseño gráfico se convierte en la voz de esa intención. Olvida por un momento los píxeles y los vectores; hoy hablamos de filosofía aplicada.
 
@@ -130,7 +130,7 @@ El American Institute of Graphic Arts lo define como *“el arte y la práctica 
 
 En otras palabras, es **el puente entre una idea abstracta y la mente de tu público**. No es arte por el arte; es comunicación estratégica.
 
-![pilares](../src/img/pilares.jpg)
+![pilares](../src/intro/pilares.jpg)
 
 **Los 4 Pilares Irrenunciables del Diseño Gráfico:**
 
@@ -143,7 +143,7 @@ En otras palabras, es **el puente entre una idea abstracta y la mente de tu púb
 
 ### El Mapa de la Profesión: ¿Dónde Puedes Especializarte?
 
-![ramas del diseño grafico](../src/img/ramas_diseño.jpg)
+![ramas del diseño grafico](../src/intro/ramas_diseño.jpg)
 
 El diseño gráfico es un árbol con muchas ramas. Estas son las principales, para que sepas por dónde camina la industria.
 
@@ -176,7 +176,7 @@ El diseño gráfico es un árbol con muchas ramas. Estas son las principales, pa
 
 ### 🧠 La Dualidad Perfecta
 
-![diseño](../src/img/composicion_diseño.avif)
+![diseño](../src/intro/composicion_diseño.avif)
 
 Guarda esto en tu cabeza:
 1.  **Función primero, forma después.** Resuelve el problema, luego hazlo bello.
@@ -198,7 +198,7 @@ Esta semana, activa tu **mirada de diseñador**. Tu tarea es cazar dos ejemplos 
 
 ## Composición: El Arte de Orquestar la Mirada
 
-![composicion](../src/img/composicion.jpg)
+![composicion](../src/intro/composicion.jpg)
 
 Has aprendido las palabras del vocabulario visual. Ahora es momento de aprender a formar frases con poder. Bienvenido a la **composición**: la ciencia y el arte de organizar elementos dentro de un espacio para contar una historia, guiar una emoción y comunicar con claridad absoluta.
 
@@ -212,7 +212,7 @@ Es la disposición estratégica de todos los elementos no textuales: imágenes, 
 
 #### a) La Percepción Visual: Tu Primer Filtro
 
-![percepcion](../src/img/persepcion.jpg)
+![percepcion](../src/intro/persepcion.jpg)
 
 **Definición técnica:**  
 Es la capacidad cerebral de interpretar la información que recibimos a través de los ojos.
@@ -224,7 +224,7 @@ No vemos con los ojos, vemos con el **cerebro**. El diseño no es lo que tú pon
 
 #### b) El Balance o Equilibrio Visual: La Sensación de Estabilidad
 
-![equilibrio visual](../src/img/Equilibrio_visual.jpg)
+![equilibrio visual](../src/intro/Equilibrio_visual.jpg)
 
 **Definición técnica:**  
 Se logra cuando el peso visual de los elementos se distribuye de manera uniforme en el espacio.
@@ -235,7 +235,7 @@ Es como colocar objetos en una balanza. No tiene que ser simétrico (balance sim
 
 #### c) La Teoría de la Gestalt: La Magia de la Simplicidad
 
-![Teoría de la Gestalt](../src/img/teoria-de-la-gestalt.png)
+![Teoría de la Gestalt](../src/intro/teoria-de-la-gestalt.png)
 
 **La premisa fundamental:**  
 **"El todo es más que la suma de sus partes".**
@@ -250,13 +250,13 @@ Esta teoría psicológica es tu **superpoder secreto**. Con sus leyes (que explo
 
 ### Composición de Texto: La Arquitectura de la Lectura
 
-![Composición de Texto](../src/img/Composicion_de_Texto.jpg)
+![Composición de Texto](../src/intro/Composicion_de_Texto.jpg)
 
 Si la composición gráfica guía la mirada, la composición de texto guía la **lectura**. Es la disciplina de hacer que las palabras no solo se lean, sino que se **experimenten**.
 
 #### a) La Selección Tipográfica: Elegir la Voz Correcta
 
-![tipografia](../src/img/tipografia.png)
+![tipografia](../src/intro/tipografia.png)
 
 No todas las fuentes dicen lo mismo. Su personalidad debe alinearse con tu mensaje. Conoce a las cuatro familias esenciales:
 
@@ -269,7 +269,7 @@ No todas las fuentes dicen lo mismo. Su personalidad debe alinearse con tu mensa
 
 #### b) Los Espacios que Hablan: Margen, Interletrado e Interlineado
 
-![Margen, Interletrado e Interlineado](../src/img/Margen_Interletrado_Interlineado.jpg)
+![Margen, Interletrado e Interlineado](../src/intro/Margen_Interletrado_Interlineado.jpg)
 
 *   **El Margen:** Es el **aire** que rodea tu bloque de texto. Un margen generoso da elegancia y claridad; uno estrecho crea tensión e intensidad. Es el marco de tu pintura verbal.
 *   **El Interletrado (Kerning/Tracking):** Es la distancia **entre letras**. Un ajuste fino evita que las letras se amontonen ("AVA" puede parecer "AVA") o se vean desconectadas. Es como ajustar la cercanía entre las personas en una foto grupal.
@@ -312,7 +312,7 @@ Más adelante en el curso nos adentraremos en las **leyes de la Gestalt** y desc
 
 ## Gestalt: Los Atajos Mentales que Todo Diseñador Domina
 
-![leyes de Gestalt](../src/img/teoria-de-la-gestalt.png)
+![leyes de Gestalt](../src/intro/teoria-de-la-gestalt.png)
 
 En la sección anterior hablamos de composición y mencionamos a tu nuevo mejor amigo: **la teoría de la Gestalt**. Hoy, vamos a desentrañar sus leyes. Esto no es psicología abstracta; son **las reglas de cómo ve el cerebro humano**. Dominarlas es como obtener el manual de usuario de la percepción visual. Te permitirán crear diseños que son inmediatamente claros, organizados y poderosos.
 
@@ -322,7 +322,7 @@ Piensa en esto: tu cerebro es perezoso. Prefiere el menor esfuerzo posible. La G
 
 ### Ley de la Proximidad: "Juntos, significan juntos"
 
-![proximidad](../src/img/proximidad.png)
+![proximidad](../src/intro/proximidad.png)
 
 **Definición técnica:**  
 Elementos cercanos entre sí se perciben como un grupo o unidad.
@@ -336,7 +336,7 @@ El cerebro asume que lo que está junto, **va junto**. Es la forma más básica 
 
 ### Ley de la Semejanza: "Parecidos, se atraen"
 
-![semejanza](../src/img/semejanza.png)
+![semejanza](../src/intro/semejanza.png)
 
 **Definición técnica:**  
 Elementos que comparten características visuales (color, forma, tamaño, textura) se perciben como relacionados.
@@ -350,7 +350,7 @@ Es la base de los sistemas visuales. Todos los botones del mismo color se entien
 
 ### Ley de la Continuidad: "El ojo sigue el camino"
 
-![continuidad](../src/img/continuidad.webp)
+![continuidad](../src/intro/continuidad.webp)
 
 **Definición técnica:**  
 El cerebro prefiere percibir líneas fluidas y continuas antes que trazos rotos o cambios bruscos de dirección.
@@ -364,7 +364,7 @@ La mirada es una flecha. Una vez que comienza a moverse en una dirección, quier
 
 ### Ley del Cierre: "La mente completa lo que falta"
 
-![Ley del Cierre](../src/img/Cierre.png)
+![Ley del Cierre](../src/intro/Cierre.png)
 
 **Definición técnica:**  
 El cerebro completa las figuras incompletas para formar un todo reconocible.
@@ -378,7 +378,7 @@ No necesitas mostrar todo. Tu espectador **llenará los vacíos**. Esto permite 
 
 ### Ley de Figura y Fondo: "No se puede ver ambos a la vez"
 
-![Ley de Figura y Fondo](../src/img/Figura_y_Fondo.png)
+![Ley de Figura y Fondo](../src/intro/Figura_y_Fondo.png)
 
 **Definición técnica:**  
 El cerebro separa lo que percibe como la figura (el objeto de interés) del fondo (el contexto).
@@ -392,7 +392,7 @@ Es el juego de "¿qué ves?" de la psicología. Tu diseño debe tener una relaci
 
 ### Ley de la Simetría y el Orden: "El cerebro ama la paz"
 
-![Ley de la Simetría y el Orden](../src/img/Simetria-y-Orden.png)
+![Ley de la Simetría y el Orden](../src/intro/Simetria-y-Orden.png)
 
 **Definición técnica:**  
 El cerebro percibe los elementos simétricos y ordenados como parte de un mismo grupo, y prefiere estas composiciones porque son estables y fáciles de procesar.
@@ -406,7 +406,7 @@ El caos visual estresa al cerebro porque lo obliga a trabajar más para encontra
 
 ### Ley de la Simplicidad (o Prägnanz): "Menos es más"
 
-![Ley de la Simplicidad](../src/img/Simplicidad.jpg)
+![Ley de la Simplicidad](../src/intro/Simplicidad.jpg)
 
 **Definición técnica:**  
 El cerebro interpretará las formas ambiguas de la manera más simple y estable posible.
@@ -451,7 +451,7 @@ Más adelante volveremos al color, pero ahora con el lente de la psicología y l
 
 ## Teoría del Color: Pintar con Emoción y Ciencia
 
-![Teoría del Color](../src/img/teoria-color.jpg)
+![Teoría del Color](../src/intro/teoria-color.jpg)
 
 Hemos hablado de la estructura mental (Gestalt) y de los elementos básicos. Ahora, hablemos del **alma** del diseño: el color. No es solo decoración; es el elemento más visceral, emocional y comunicativo que tienes a tu disposición. Hoy vas a aprender a usarlo no como un pintor, sino como un **psicólogo visual**.
 
@@ -461,7 +461,7 @@ El color es la primera impresión, el que establece el estado de ánimo antes de
 
 ### El Círculo Cromático: Tu Brújula de Color
 
-![Círculo Cromático](../src/img/circulos-cromaticos.jpg)
+![Círculo Cromático](../src/intro/circulos-cromaticos.jpg)
 
 Imagina que es la **rueda de condimentos de un chef maestro**. Te muestra todos los sabores (colores) disponibles y, lo más importante, cómo se relacionan y combinan entre sí para crear armonía o contraste.
 
@@ -475,7 +475,7 @@ Imagina que es la **rueda de condimentos de un chef maestro**. Te muestra todos 
 
 ### La Temperatura del Color: El Termómetro Emocional
 
-![Temperatura del Color](../src/img/temperatura-color.jpg)
+![Temperatura del Color](../src/intro/temperatura-color.jpg)
 
 El círculo se divide en un espectro emocional que tu cerebro entiende instintivamente.
 
@@ -493,7 +493,7 @@ El círculo se divide en un espectro emocional que tu cerebro entiende instintiv
 
 ### El Lenguaje Técnico: Matiz y Saturación
 
-![Matiz y Saturación](../src/img/Matiz_Saturación.webp)
+![Matiz y Saturación](../src/intro/Matiz_Saturación.webp)
 
 Para afinar tu selección, domina estos dos conceptos:
 
@@ -504,16 +504,16 @@ Para afinar tu selección, domina estos dos conceptos:
 
 ### Armonías de Color: Las Fórmulas Probadas
 
-![Armonías de Color](../src/img/Armonias_cromaticas.webp)
+![Armonías de Color](../src/intro/Armonias_cromaticas.webp)
 
 Escoger colores al azar es una receta para el desastre. Usa estas **fórmulas clásicas** (armonías) extraídas directamente del círculo cromático para crear paletas que funcionen.
 
 | Armonía | Cómo se Forma | Sensación que Transmite | Ejemplo Práctico |
 | :--- | :--- | :--- | :--- |
-| **Monocromática** | Diferentes tonos, sombras y tintes de **un solo color**. | Elegante, cohesivo, minimalista y sofisticado. Muy difícil de equivocarse. | ![Monocromática](../src/img/Monocromatica_teoria_color.png) |
-| **Análoga** | Colores que son **vecinos** en el círculo (ej.: amarillo, amarillo-verde, verde). | Armonioso, sereno y natural. Crea una gradación suave y agradable a la vista. | ![Análoga](../src/img/analogo_teoria_color.webp) |
-| **Complementaria** | Colores que están **opuestos** en el círculo (ej.: azul y naranja, rojo y verde). | Máximo **contraste** y vibración. Llamativo, dinámico y energético. Usar con cuidado. | ![complementaria](../src/img/complementario_teroria_colorpng.png) |
-| **Triádica** | Tres colores **equidistantes** en el círculo (forman un triángulo). | Alegre, vibrante y juguetón, pero requiere más habilidad para equilibrar. | ![triada](../src/img/triada_teoria_del_color_.jpg) |
+| **Monocromática** | Diferentes tonos, sombras y tintes de **un solo color**. | Elegante, cohesivo, minimalista y sofisticado. Muy difícil de equivocarse. | ![Monocromática](../src/intro/Monocromatica_teoria_color.png) |
+| **Análoga** | Colores que son **vecinos** en el círculo (ej.: amarillo, amarillo-verde, verde). | Armonioso, sereno y natural. Crea una gradación suave y agradable a la vista. | ![Análoga](../src/intro/analogo_teoria_color.webp) |
+| **Complementaria** | Colores que están **opuestos** en el círculo (ej.: azul y naranja, rojo y verde). | Máximo **contraste** y vibración. Llamativo, dinámico y energético. Usar con cuidado. | ![complementaria](../src/intro/complementario_teroria_colorpng.png) |
+| **Triádica** | Tres colores **equidistantes** en el círculo (forman un triángulo). | Alegre, vibrante y juguetón, pero requiere más habilidad para equilibrar. | ![triada](../src/intro/triada_teoria_del_color_.jpg) |
 
 ---
 
@@ -548,7 +548,7 @@ Más adelante conectaremos todo lo aprendido y comenzaremos a **construir sistem
 
 ## UX y UI: La Diferencia Entre Sentir y Ver
 
-![UX UI](../src/img/ui-ux-design.png)
+![UX UI](../src/intro/ui-ux-design.png)
 
 Has aprendido a comunicar con formas, colores y estructuras. Ahora, damos un salto al mundo digital, donde el diseño deja de ser estático y se vuelve una **conversación**. Hoy hablaremos de dos conceptos que definen esta era: **UX y UI**. No son lo mismo, pero son inseparables. Dominar esta diferencia es lo que separa a un artista visual de un **arquitecto de experiencias**.
 
@@ -564,14 +564,14 @@ Imagina un restaurante de lujo.
 *   **La UI (Interfaz de Usuario)** es **todo lo que ves y tocas**: la elegancia de la vajilla, la claridad del menú, la disposición de los cubiertos, la suavidad del mantel. Es el **cómo se presenta**.
 *   **La UX (Experiencia de Usuario)** es **cómo te sientes**: la amabilidad del camarero, la lógica de la secuencia de platos, el tiempo de espera, la comodidad de la silla, el recuerdo que te llevas. Es el **qué experimentas**.
 
-![UI](../src/img/UI-interfaz-de-usuario.jpg)   
+![UI](../src/intro/UI-interfaz-de-usuario.jpg)   
 
 
 En digital:
 *   **UI (Interfaz):** Son los **objetos de interacción**. Los botones, los menús, los deslizadores, las tipografías, los colores de la pantalla. Es la **capa estética y táctil**.
 *   **UX (Experiencia):** Es la **percepción y emoción resultante** de usar esa interfaz. ¿Fue fácil lograr lo que quería? ¿Me sentí frustrado o empoderado? Es la **capa psicológica y funcional**.
    
-![UX](../src/img/UX-Experiencia-del-usuario.png)
+![UX](../src/intro/UX-Experiencia-del-usuario.png)
 
 **La relación es simple:** Una UI hermosa pero confusa arruina la UX. Una UX brillante a menudo se apoya en una UI intuitiva y bien diseñada.
 
@@ -579,7 +579,7 @@ En digital:
 
 ### Los Pilares de una Buena Experiencia: Usabilidad y Accesibilidad
 
-![Usabilidad y Accesibilidad](../src/img/Usabilidad_Accesibilidad_diseño.png)
+![Usabilidad y Accesibilidad](../src/intro/Usabilidad_Accesibilidad_diseño.png)
 
 Para que la UX sea positiva, la UI debe construirse sobre dos cimientos inquebrantables:
 
@@ -608,9 +608,9 @@ Antes de que una app o web nazca, pasa por tres etapas de planificación visual.
 
 | Etapa | ¿Qué es? | Analogía | Propósito |
 | :--- | :--- | :--- | :--- |
-| **Wireframe** ![Wireframe](../src/img/Wireframe.jpg) | Un **esquema estructural** en escala de grises. Define la disposición de elementos sin detalles visuales. | Los **planos arquitectónicos** de una casa. Muestra dónde van las puertas y ventanas, pero no el color de las paredes. | Validar la estructura, el flujo de información y la jerarquía de contenido. Es rápido y barato de cambiar. |
-| **Mockup** ![Mockup](../src/img/Mockup.jpg) | Una **maqueta visual estática**. Aplica la identidad visual (colores, tipografías, imágenes, iconos) al wireframe. | La **maqueta a escala** que muestra cómo se verá la casa pintada y decorada, pero no se puede abrir la puerta. | Validar el aspecto visual, la paleta de colores y la tipografía antes de construir. |
-| **Prototipo** ![Prototipo](../src/img/prototipo-diseno.jpg) | Una **simulación interactiva**. El mockup cobra vida: los botones se pulsan, los menús se desplegan. | La **casa de muestra** en la urbanización, donde puedes abrir los grifos y encender las luces. | Testear la **usabilidad y la experiencia de flujo** con usuarios reales. Descubrir puntos de fricción antes del desarrollo costoso. |
+| **Wireframe** ![Wireframe](../src/intro/Wireframe.jpg) | Un **esquema estructural** en escala de grises. Define la disposición de elementos sin detalles visuales. | Los **planos arquitectónicos** de una casa. Muestra dónde van las puertas y ventanas, pero no el color de las paredes. | Validar la estructura, el flujo de información y la jerarquía de contenido. Es rápido y barato de cambiar. |
+| **Mockup** ![Mockup](../src/intro/Mockup.jpg) | Una **maqueta visual estática**. Aplica la identidad visual (colores, tipografías, imágenes, iconos) al wireframe. | La **maqueta a escala** que muestra cómo se verá la casa pintada y decorada, pero no se puede abrir la puerta. | Validar el aspecto visual, la paleta de colores y la tipografía antes de construir. |
+| **Prototipo** ![Prototipo](../src/intro/prototipo-diseno.jpg) | Una **simulación interactiva**. El mockup cobra vida: los botones se pulsan, los menús se desplegan. | La **casa de muestra** en la urbanización, donde puedes abrir los grifos y encender las luces. | Testear la **usabilidad y la experiencia de flujo** con usuarios reales. Descubrir puntos de fricción antes del desarrollo costoso. |
 
 **El flujo sagrado:** Wireframe (estructura) → Mockup (belleza) → Prototipo (comportamiento). Saltarse un paso es construir una casa sin planos.
 
@@ -650,7 +650,7 @@ Más adelante conectaremos todos los hilos sueltos —tipografía, color, compos
 
 ## El Taller Digital: Eligiendo Tus Herramientas de Creación
 
-![Herramientas de Creación](../src/img/herramientas-de-diseño.jpg)
+![Herramientas de Creación](../src/intro/herramientas-de-diseño.jpg)
 
 Has aprendido la teoría, la psicología y el proceso. Ahora es momento de hablar de **el cómo materializas tus ideas**. Las herramientas. En el diseño gráfico y UX/UI, tu software no es solo un programa; es tu estudio, tu taller, tu extensión creativa. Hoy no hablaremos de marcas, sino de **funcionalidades y flujos de trabajo**. Tu elección no te define como diseñador, pero la correcta puede liberarte.
 
@@ -672,7 +672,7 @@ Vamos a desglosar las principales, no como una lista de características, sino c
 
 #### 🎨 **Figma: El Colaborador Nato**
 
-![Figma](../src/img/Figma-design.png)
+![Figma](../src/intro/Figma-design.png)
 
 *   **Su esencia:** Es el **Google Docs del diseño**. Nació en la nube y para la colaboración en tiempo real.
 *   **Para quién es:** Equipos distribuidos, diseñadores que trabajan codo a codo con desarrolladores, freelances que presentan trabajo a clientes de forma interactiva. Es la reina de la **accesibilidad y la sencillez**.
@@ -681,7 +681,7 @@ Vamos a desglosar las principales, no como una lista de características, sino c
 
 #### ✏️ **Sketch: El Purista de Mac**
 
-![Sketch](../src/img/Sketch-design.jpg)
+![Sketch](../src/intro/Sketch-design.jpg)
 
 *   **Su esencia:** El **pionero** que democratizó el diseño de interfaces. Es una aplicación nativa de macOS, potente y ágil.
 *   **Para quién es:** Diseñadores que trabajan principalmente en entornos Apple, que valoran un software rápido y centrado exclusivamente en el diseño de UI/UX, sin bloat.
@@ -690,7 +690,7 @@ Vamos a desglosar las principales, no como una lista de características, sino c
 
 #### 🚀 **Adobe XD: El Integrador**
 
-![Adobe XD](../src/img/Adobe-XD-design.png)
+![Adobe XD](../src/intro/Adobe-XD-design.png)
 
 *   **Su esencia:** El jugador de Adobe que busca unificar el flujo de trabajo. Si vienes de Photoshop o Illustrator, te sentirás en casa.
 *   **Para quién es:** Diseñadores ya inmersos en el ecosistema Adobe (Creative Cloud). Ideales para proyectos donde el diseño de interfaz y el material de marketing (creado en otras apps de Adobe) deben coexistir en armonía.
@@ -699,7 +699,7 @@ Vamos a desglosar las principales, no como una lista de características, sino c
 
 #### ⚡ **InVision Studio & Studio Design: Los Especialistas en Dinámica**
 
-![InVision Studio](../src/img/InVision-Studio-design.png)
+![InVision Studio](../src/intro/InVision-Studio-design.png)
 
 *   **Su esencia:** Herramientas pensadas para llevar los prototipos más allá de lo estático, hacia **micro-interacciones y animaciones complejas**.
 *   **Para quién es:** Diseñadores de interacción (IXD) especializados en crear experiencias fluidas y animadas. Para proyectos donde la transición y el movimiento son parte crítica de la comunicación.
@@ -750,7 +750,7 @@ Más adelante haremos una **síntesis magistral**. Conectaremos todos los puntos
 ---
 ## Creatividad: El Motor que Convierte Problemas en Soluciones Memorables
 
-![Creatividad](../src/img/Creatividad.jpg)
+![Creatividad](../src/intro/Creatividad.jpg)
 
 Has dominado las herramientas, la teoría y el proceso. Pero hay un ingrediente que no se puede descargar ni instalar: **la creatividad**. Hoy no hablaremos de píxeles o paletas, sino del combustible que hace que todo cobre vida. La creatividad no es un don mágico reservado para unos pocos; es un **músculo** que se ejercita. Y como todo buen entrenador, te voy a dar las rutinas para fortalecerlo.
 
@@ -760,7 +760,7 @@ Olvida la imagen del genio solitario esperando la inspiración. La creatividad e
 
 ### Desmitificando la Creatividad: No Es lo que Crees
 
-![musculo creativo](../src/img/musculo-creativo.jpg)
+![musculo creativo](../src/intro/musculo-creativo.jpg)
 
 **Definición técnica:**  
 La capacidad de generar nuevas ideas con el objetivo de desarrollar una solución original a un problema determinado.
@@ -778,7 +778,7 @@ Estas no son teorías abstractas. Son **métodos de trabajo** probados que usan 
 
 #### a) Los 6 Sombreros para Pensar (de Edward de Bono)
 
-![Los 6 Sombreros para Pensar](../src/img/Sombreros-para-Pensar.png)
+![Los 6 Sombreros para Pensar](../src/intro/Sombreros-para-Pensar.png)
 
 **La esencia:** Un **debate estructurado** donde cada participante adopta un rol (un sombrero) para explorar el problema desde ángulos completamente distintos, sin conflictos de ego.
 *   **Sombrero Blanco (Objetivo):** Solo datos y hechos. "¿Qué sabemos?"
@@ -792,7 +792,7 @@ Estas no son teorías abstractas. Son **métodos de trabajo** probados que usan 
 
 #### b) Método SCAMPER: La Caja de Herramientas para Modificar
 
-![Método SCAMPER](../src/img/scamper.png)
+![Método SCAMPER](../src/intro/scamper.png)
 
 **La esencia:** Una **checklist de verbos de acción** para transformar una idea o producto existente. Es perfecto para rediseñar o iterar.
 *   **S**ustituir: ¿Qué podemos cambiar? (Partes, materiales, personas)
@@ -807,7 +807,7 @@ Estas no son teorías abstractas. Son **métodos de trabajo** probados que usan 
 
 #### c) El Cuestionamiento de Suposiciones
 
-![Cuestionamiento de Suposiciones](../src/img/interrogacion.avif)
+![Cuestionamiento de Suposiciones](../src/intro/interrogacion.avif)
 
 **La esencia:** **Atacar lo "obvio"**. Todo proyecto parte de supuestos no verificados ("Los usuarios prefieren muchos colores", "El logo debe ir arriba a la izquierda").
 *   **El proceso:** Lista TODAS las suposiciones sobre tu proyecto. Luego, desafía cada una. ¿Y si el usuario prefiere la simplicidad monocromática? ¿Y si el logo va al centro?
@@ -816,11 +816,11 @@ Estas no son teorías abstractas. Son **métodos de trabajo** probados que usan 
 
 #### d) Brainstorming & 4x4x4: De lo Individual a lo Colectivo
 
-![Brainstorming](../src/img/Brainstorming.png)
+![Brainstorming](../src/intro/Brainstorming.png)
 
 *   **Brainstorming Clásico:** La regla de oro es **cantidad sobre calidad, y sin juicios**. Anota todo, por descabellado que sea. La crítica viene después. Consejo pro: Empieza en silencio e individual, luego compartan. Así evitas la influencia del más vocal.
    
-![Técnica 4x4x4](../src/img/tecnica_4x4x4.png)
+![Técnica 4x4x4](../src/intro/tecnica_4x4x4.png)
 
 *   **Técnica 4x4x4:** Un **funnel de ideas**.
     1.  **Individual:** Cada uno escribe sus 4 mejores ideas.
@@ -831,7 +831,7 @@ Estas no son teorías abstractas. Son **métodos de trabajo** probados que usan 
 
 #### e) Bosquejo en Grupo (Group Sketching)
 
-![Group Sketching](../src/img/Group-Sketching.jpg)
+![Group Sketching](../src/intro/Group-Sketching.jpg)
 
 **La esencia:** **Pensar con las manos**. No importa si "no sabes dibujar". Se trata de comunicación visual cruda.
 *   **El proceso:** Uno empieza un sketch sobre el problema. Otro lo continúa, añadiendo o modificando. Y así sucesivamente. Al final, se analizan los dibujos en busca de patrones e ideas emergentes.
@@ -870,7 +870,7 @@ El viaje continúa. La siguiente parada: **la especialización y la profundizaci
 
 ## Creatividad sin Fronteras: Tu Taller Virtual Colaborativo
 
-![Taller Virtual Colaborativo](../src/img/map-workshop.png)
+![Taller Virtual Colaborativo](../src/intro/map-workshop.png)
 
 Hemos llegado a un punto crucial en tu formación. Sabes *qué* diseñar y *cómo* pensar de forma creativa. Ahora, debemos hablar del **dónde** en el mundo moderno: el espacio digital colaborativo. El estudio de diseño ya no es solo una habitación con mesas de dibujo; es un **lienzo infinito en la nube** donde equipos distribuidos across el mundo pueden co-crear en tiempo real.
 
@@ -880,7 +880,7 @@ La creatividad no se apaga cuando trabajamos a distancia. Se transforma, y neces
 
 ### El Nuevo Estudio: Por qué Estas Herramientas son Esenciales
 
-![pizarras digitales](../src/img/pizarras-digitales.jpg)
+![pizarras digitales](../src/intro/pizarras-digitales.jpg)
 
 Imagina intentar hacer el ejercicio de "Bosquejo en Grupo" o "Los 6 Sombreros" por correo electrónico. Sería un desastre. Estas plataformas existen para una razón: **hacer que la colaboración creativa a distancia sea tan fluida, o más, que en persona.**
 
@@ -897,7 +897,7 @@ Todas estas herramientas comparten un ADN similar, pero cada una tiene su person
 
 #### 🎨 **Mural & Miro: Los Titanes Gemelos**
 
-![Mural & Miro](../src/img/murals-confetti.png)
+![Mural & Miro](../src/intro/murals-confetti.png)
 
 *   **Su esencia:** Son los **Figma de la lluvia de ideas**. Las plataformas más completas y populares para la colaboración visual en tiempo real. Son virtualmente intercambiables en sus funciones básicas.
 *   **Lo que ofrecen:** Pizarras infinitas (*boards*), post-its digitales, diagramas, dibujo a mano alzada, votaciones, temporizadores para workshops y una **galaxia de plantillas predefinidas** (para Design Sprints, Mapas de Empatía, Canvas de Negocio, etc.).
@@ -906,14 +906,14 @@ Todas estas herramientas comparten un ADN similar, pero cada una tiene su person
 
 #### ⛈️ **Stormboard: El Organizador Metódico**
 
-![Stormboard](../src/img/Stormboard.png)
+![Stormboard](../src/intro/Stormboard.png)
 *   **Su esencia:** Como su nombre sugiere, está diseñado para **gestionar la tormenta de ideas** (*brainstorm*) y luego darle estructura.
 *   **Lo que ofrece:** Su punto fuerte es cómo te ayuda a **clasificar, agrupar y priorizar** ideas después de generarlas. Facilita el paso del caos creativo al plan de acción.
 *   **Para quién es:** Equipos que necesitan un flujo muy claro: "Ideación → Categorización → Votación → Roadmap". Es menos un lienzo libre y más un **sistema de gestión de ideas**.
 
 #### 💡 **Ideaflip: La Simplicidad Elegante**
 
-![Ideaflip](../src/img/Ideaflip.gif)
+![Ideaflip](../src/intro/Ideaflip.gif)
 
 *   **Su esencia:** Una herramienta **minimalista y centrada en lo esencial**: los post-its y su agrupación.
 *   **Lo que ofrece:** Una interfaz ultra limpia y visual para hacer brainstorming individual o en grupo. Es menos abrumadora que Miro o Mural, perfecta para sesiones rápidas y focadas.
@@ -921,7 +921,7 @@ Todas estas herramientas comparten un ADN similar, pero cada una tiene su person
 
 #### 🧪 **Sessionlab: El Maestro de Ceremonias**
 
-![Sessionlab](../src/img/Sessionlab.png)
+![Sessionlab](../src/intro/Sessionlab.png)
 
 *   **Su esencia:** No es solo una pizarra colaborativa; es un **planificador y biblioteca de técnicas de taller**.
 *   **Lo que ofrece:** Su poder está en ayudarte a **diseñar la agenda completa** de tu workshop (presencial o remoto). Te permite arrastrar y soltar diferentes técnicas de creatividad, team building o resolución de problemas, calcular tiempos y compartir la agenda con los participantes. Luego, puedes ejecutarlo usando integraciones con Miro, Mural, etc.

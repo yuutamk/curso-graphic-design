@@ -409,3 +409,111 @@ Te propongo un ejercicio práctico que pondrá en marcha tu motor de inspiració
 **El objetivo no es un diseño final.** El objetivo es **ejercitar el proceso** de buscar, curar y recombinar. Al final, tendrás un pequeño banco de inspiración específico y tres puntos de partida viables para un proyecto.
 
 Guarda este proceso. Repítelo para cada nuevo proyecto. Pronto, la "falta de ideas" será cosa del pasado.
+
+
+---
+
+## Behance
+
+![Behance](../src/img/behance-3.svg)
+
+### Tu Vitrina Profesional en el Mundo Creativo
+
+Anteriormente hablamos de buscar inspiración en Pinterest y de admirar el trabajo terminado en Behance. Hoy vamos a dar un giro crucial: pasar de ser **espectador** a ser **expositor**. Behance no es solo una galería para mirar; es el escenario donde **construyes tu reputación, tu carrera y tu red profesional**. Si Pinterest es tu cuaderno de apuntes privado, Behance es tu **tesis profesional publicada para el mundo**.
+
+Piensa en Behance como tu **portfolio digital vivo**, tu tarjeta de presentación global y tu conexión directa con las mejores oportunidades. Vamos a dominarlo.
+
+---
+
+### Behance vs. El Resto: La Diferencia que Importa
+
+![Behance vs. El Resto](../src/img/Behance-vs-world.jpg)
+
+**Behance no es una red social cualquiera.** Es una **plataforma de *casos de estudio* visuales**.
+
+*   **Pinterest / Instagram:** Son para **imágenes sueltas**. Una foto, un logo, un mood. Es sobre el *destello* de una idea.
+*   **Behance:** Es para **proyectos completos**. Múltiples imágenes, procesos, explicaciones, contextos. Es sobre el *viaje completo* de una idea, desde el problema hasta la solución final.
+
+**La analogía perfecta:**
+*   **Pinterest** es como hojear un libro de recortes lleno de postales hermosas de todo el mundo.
+*   **Behance** es como visitar una exposición de arquitectura donde ves las maquetas, los planos estructurales, las fotos del edificio terminado *y* la explicación del arquitecto sobre cómo resolvió cada desafío.
+
+---
+
+### El Arte de Publicar: No Subas Imágenes, Cuenta Historias
+
+![Behance historias](../src/img/behance-historias.jpg)
+
+Publicar en Behance no es subir una imagen y ponerle "Hecho". Es **narrar tu proceso**. Así se hace:
+
+**Los 4 Pilares de un Proyecto que Impacta:**
+
+1.  **El Contexto (El "Por Qué"):** Empieza con el brief. ¿Cuál era el problema del cliente? ¿El objetivo? Una o dos líneas que pongan al espectador en situación. *"Rediseño de marca para una cafetería local que buscaba transmitir artesanía y sostenibilidad."*
+2.  **El Viaje Visual (El "Cómo"):** Aquí es donde brillas. Sube **múltiples imágenes** que muestren:
+    *   Los primeros **bocetos** y *moodboards*.
+    *   La **exploración** de conceptos (varias opciones de logo, paletas de color).
+    *   La **aplicación** del diseño (cómo se ve la marca en tazas, uniformes, redes sociales).
+    *   **Detalles** y acercamientos (el kerning perfecto de la tipografía, el patrón de textura).
+3.  **La Explicación Clara (El "Qué"):** Usa texto breve entre imágenes para guiar. Explica *tus decisiones de diseño*. ¿Por qué ese color? ¿Por qué esa tipografía? Esto demuestra **pensamiento estratégico**, no solo habilidad técnica.
+4.  **Las Etiquetas Inteligentes:** Usa categorías y tags relevantes (#BrandIdentity, #EditorialDesign, #UXCaseStudy). Es como poner tu trabajo en los estantes correctos de la biblioteca global para que te encuentren.
+
+---
+
+### Behance como Motor de Tu Carrera: Más que "Me Gusta"
+
+![Behance como Motor de Tu Carrera](../src/img/Behance-Tu-Carrera.png)
+
+Esta plataforma es tu **asesor de carrera, tu cazatalentos y tu red de contactos**, todo en uno.
+
+*   **Tu Carta de Presentación 24/7:** Agencias de todo el mundo *escanean* Behance en busca de talento. Un perfil sólido es tu mejor currículum. Las **vistas y los "appreciations" (likes)** son tu métrica de impacto inicial.
+*   **La Puerta a Oportunidades Reales:** Muchos trabajos freelance y ofertas de empleo surgen porque alguien vio un proyecto tuyo aquí. Es común recibir mensajes directos de clientes potenciales.
+*   **Tu Red de Colegas y Mentores:** Seguir a artistas que admiras, comentar con sustancia en proyectos (más allá de "¡genial!"), y hasta colaborar en proyectos publicados, te conecta con la comunidad profesional global.
+
+---
+
+### La Estrategia: Cómo Gestionar un Portafolio que Atrape
+
+![Portafolio que Atrape](../src/img/behance-Portafolio.png)
+
+Un perfil descuidado hace más daño que no tenerlo. Sigue esta disciplina:
+
+*   **Calidad sobre Cantidad, Siempre.** Es mejor tener **5 proyectos increíblemente bien presentados** que 20 mediocres. Tu portafolio es tan fuerte como tu proyecto más débil.
+*   **Curada Constante:** Revisa tu perfil cada 6 meses. ¿Ese trabajo de hace 3 años representa aún tu nivel y estilo? Si no, **archívalo** (Behance permite ocultar proyectos sin borrarlos).
+*   **Pide y Da Feedback de Valor:** Comenta en otros trabajos con preguntas o observaciones específicas ("Me encanta cómo solucionaste la navegación en móvil aquí"). La comunidad responde a la generosidad.
+*   **Coherencia Visual en tu Perfil:** Tu foto, tu biografía y la disposición de tus proyectos deben reflejar **tu marca personal**. Que tu perfil en sí mismo sea un ejemplo de buen diseño.
+
+---
+
+### 🧠 Tu Dirección Profesional en Línea
+
+Behance es la herramienta más poderosa que tienes para **controlar tu narrativa profesional**.
+1.  No es un álbum de fotos, es una **sala de exposiciones de casos de estudio**.
+2.  No publiques resultados, publica **procesos y decisiones**.
+3.  No busques solo likes, busca **visibilidad estratégica y conexiones de calidad**.
+4.  **Se proactivo.** La plataforma no funciona si solo consumes. Publica, interactúa, pertenece.
+
+Es el paso inevitable de aprender a **ser visto**.
+
+---
+
+### 🚀 Tu Reto: Operación "Primera Impresión en Behance"
+
+Es hora de pasar a la acción. Este reto tiene dos caminos; elige el que se ajuste a ti:
+
+**Opción A (Si ya tienes perfil): La Gran Revisión.**
+1.  Revisa tus **3 proyectos más recientes** en Behance.
+2.  Aplícales el **filtro de los 4 Pilares** (¿Tienen contexto? ¿Muestran proceso? ¿Explican decisiones? ¿Están bien etiquetados?).
+3.  Elige **UNO** y re-edítalo completamente para cumplir con todos los pilares. Actualízalo.
+
+**Opción B (Si no tienes perfil o es nuevo): El Proyecto Fundacional.**
+1.  **Crea o mejora** tu perfil: una foto profesional, una bio clara que diga quién eres y qué te interesa diseñar.
+2.  **Toma UN proyecto tuyo** (puede ser de este curso, un trabajo personal, un rediseño de algo que te guste).
+3.  **Sigue los 4 Pilares** y súbelo como tu primer caso de estudio formal.
+4.  **Interactúa:** Busca 3 proyectos de diseñadores que admires y déjales un comentario sustancial (menciona algo específico que te haya gustado o una pregunta genuina).
+
+**Comparte el link** a tu perfil o proyecto actualizado. Este no es un ejercicio de ego; es el primer paso para construir tu presencia profesional en el ecosistema creativo global.
+
+En la próxima sesión, cerraremos este módulo hablando de **cómo traducir todo este aprendizaje en un portafolio físico/digital cohesivo y en la mentalidad para conseguir tus primeros clientes o empleo**. De la teoría a la práctica real.
+
+
+
