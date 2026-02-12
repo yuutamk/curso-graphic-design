@@ -1,13 +1,13 @@
 # Fundamentos del diseño gráfico
 
-![Fundamentos del diseño gráfico](../src/img/Fundamentos-diseño-gráfico.jpg)
+![Fundamentos del diseño gráfico](../src/fundamentos/Fundamentos-diseño-gráfico.jpg)
 
 ## El Viaje Comienza
 
 
 Has llegado al punto de partida. Sí, leíste bien: **el punto de partida**. Durante estas sesiones, hemos desempacado y ensamblado juntos la caja de herramientas esencial del diseñador. Ahora, con los fundamentos firmes en tus manos y la mentalidad correcta en tu cabeza, es momento de mirar el mapa completo y trazar tu ruta. Esta no es una despedida, es un briefing para la misión más importante: **tu carrera**.
 
-![punto de partida](../src/img/punto_de_partida.webp)
+![punto de partida](../src/fundamentos/punto_de_partida.webp)
 
 El diseño profesional no es un destino; es un viaje de aprendizaje constante, experimentación y comunicación audaz. Vamos a conectar todos los puntos y ver el panorama completo.
 
@@ -15,7 +15,7 @@ El diseño profesional no es un destino; es un viaje de aprendizaje constante, e
 
 ### Tus Fundamentos: La Caja de Herramientas que Nunca Envejece
 
-![Caja de Herramientas](../src/img/elementos-diseno-grafico.avif)
+![Caja de Herramientas](../src/fundamentos/elementos-diseno-grafico.avif)
 
 Todo lo que has explorado —desde el boceto hasta la Gestalt, desde la teoría del color hasta la psicología de la UX— no son temas aislados. Son un **sistema interconectado**. Piensa en ellos como tu kit de supervivencia en cualquier proyecto:
 
@@ -29,7 +29,7 @@ Estos fundamentos son **tu superpoder**. Las tendencias pasan, los software se a
 
 ### Tu Taller Digital: Dominando el Oficio
 
-![Software Profesional](../src/img/Software-Profesional.jpg)
+![Software Profesional](../src/fundamentos/Software-Profesional.jpg)
 
 Conocer la teoría sin saber ejecutarla es como un arquitecto que no sabe usar una regla. Has explorado el panorama de herramientas:
 
@@ -42,7 +42,7 @@ No te cases con una sola herramienta; **cásate con el problema que necesitas re
 
 ### Las Nuevas Fronteras: Donde la Creatividad se Expande
 
-![diseño creativo](../src/img/diseño-creativo.png)
+![diseño creativo](../src/fundamentos/diseño-creativo.png)
 
 El diseño no se detiene en lo estático. El mundo exige experiencias más ricas y dinámicas. Estas son las fronteras que puedes empezar a explorar:
 
@@ -54,7 +54,7 @@ El diseño no se detiene en lo estático. El mundo exige experiencias más ricas
 
 ### El Proceso Creativo Profesional: De la Chispa al Impacto
 
-![Desarrollo del Concepto](../src/img/Desarrollo-del-Concepto.png)
+![Desarrollo del Concepto](../src/fundamentos/Desarrollo-del-Concepto.png)
 
 Ahora, ¿cómo unes todo esto para crear piezas que no solo se vean bien, sino que *funcionen*?
 
@@ -81,7 +81,7 @@ El siguiente paso es **aplicarlo**. Crea un proyecto personal. Rediseña una app
 
 ## Arte vs. Diseño: La Línea que Separa la Pregunta de la Respuesta
 
-![Arte vs. Diseño](../src/img/Arte-vs-Diseño.jpg)
+![Arte vs. Diseño](../src/fundamentos/Arte-vs-Diseño.jpg)
 
 Has llegado a una encrucijada fundamental. En nuestro viaje hemos hablado de *cómo* diseñar. Hoy debemos hablar del *por qué* y del *para qué*. Para ello, necesitamos una claridad brutal: **el diseño no es arte.** Y entender esta diferencia no es un ejercicio académico; es lo que define tu rol, tu impacto y tu responsabilidad en cada proyecto que toques.
 
@@ -91,7 +91,7 @@ Esta distinción es el cimiento sobre el que se construye una carrera profesiona
 
 ### El Propósito Esencial: ¿Resolver o Preguntar?
 
-![Resolver o Preguntar](../src/img/Resolver-Preguntar.jpg)
+![Resolver o Preguntar](../src/fundamentos/Resolver-Preguntar.jpg)
 
 *   **El Diseño es un verbo de solución.** Es un **área del conocimiento humano** dedicada a identificar problemas y crear soluciones innovadoras que mejoren nuestra calidad de vida. Su brújula siempre apunta hacia afuera: hacia el usuario, el contexto, la necesidad concreta.
 *   **El Arte es un verbo de cuestionamiento.** Se centra en plantear preguntas, explorar emociones y expresar perspectivas subjetivas. Su brújula apunta hacia adentro: hacia el artista, su visión y su mundo interior.
@@ -107,7 +107,7 @@ Ambos son valiosos. Pero **no son lo mismo**.
 
 ### El Caso Práctico: La Felicidad
 
-![Felicidad](../src/img/Felicidad.jpg)
+![Felicidad](../src/fundamentos/Felicidad.jpg)
 
 *   **Como Artista,** expresarías felicidad en un lienzo con tus colores, tus pinceladas, tu historia personal. La obra podría ser caótica, melancólica o abstracta. El espectador debe *interpretar* y *reflexionar*. La felicidad es un **diálogo interno** que tú iniciaste.
 *   **Como Diseñador,** tu objetivo sería **generar** felicidad en el usuario de manera directa. Diseñarías la interfaz de una app que le permite a un padre ver la primera sonrisa de su bebé en tiempo real mientras está lejos. Cada elección —el sonido de notificación, el color del botón de "play", la velocidad de carga— está **ingenierizada** para producir una emoción específica: alegría instantánea, sin necesidad de introspección.
@@ -118,7 +118,7 @@ El arte explora la emoción. El diseño la **provoca por diseño**.
 
 ### El Árbol del Diseño: Ramas que Solucionan Mundos
 
-![Árbol del Diseño](../src/img/ramas-del-Diseño.png)
+![Árbol del Diseño](../src/fundamentos/ramas-del-Diseño.png)
 
 El diseño gráfico es solo una rama de un árbol enorme. Todas comparten el ADN de la **solución funcional**:
 
@@ -134,7 +134,7 @@ El diseño gráfico es solo una rama de un árbol enorme. Todas comparten el ADN
 
 ### El Kit de Habilidades del Diseñador (No Solo del Artista)
 
-![Habilidades del Diseñador](../src/img/Habilidades-en-el-Diseno-Grafico.webp)
+![Habilidades del Diseñador](../src/fundamentos/Habilidades-en-el-Diseno-Grafico.webp)
 
 Un gran artista puede guiarse por la intuición. Un gran diseñador **combina** intuición con un método riguroso. Tus habilidades esenciales son:
 
@@ -147,7 +147,7 @@ Un gran artista puede guiarse por la intuición. Un gran diseñador **combina** 
 
 ### El Pilar Innegociable: La Funcionalidad
 
-![Funcionalidad](../src/img/Funcionalidad.png)
+![Funcionalidad](../src/fundamentos/Funcionalidad.png)
 
 Puedes hacer el logo más hermoso del mundo. Pero si es ilegible cuando se imprime pequeño en un bolígrafo, **has fallado como diseñador**. Has creado arte, no diseño.
 
@@ -187,7 +187,7 @@ Este ejercicio agudizará tu criterio fundamental. Empezarás a ver el mundo no 
 
 ## Diseño Universal: El Idioma Visual que Todos Hablamos
 
-![Diseño Universal](../src/img/Diseño-Universal.jpeg)
+![Diseño Universal](../src/fundamentos/Diseño-Universal.jpeg)
 
 Hasta ahora hemos hablado de diseñar para usuarios, para mercados, para problemas específicos. Hoy damos un paso más grande: vamos a hablar de diseñar para **la humanidad**. Del diseño que trasciende idiomas, culturas, habilidades y tiempo. Bienvenido a los principios del **diseño universal** y **atemporal**—donde la simplicidad deja de ser un estilo y se convierte en una responsabilidad ética y profesional.
 
@@ -197,7 +197,7 @@ Piensa en la última señal de baño que viste en un aeropuerto. No necesitabas 
 
 ### Diseño Universal: El Lenguaje Visual Sin Fronteras
 
-![Diseño Universal](../src/img/icons-diseño-Universal.jpg)
+![Diseño Universal](../src/fundamentos/icons-diseño-Universal.jpg)
 
 **Definición:**  
 Es el diseño que puede ser **entendido, interpretado y utilizado** por la mayor diversidad de personas posible, independientemente de su edad, cultura, idioma, educación o capacidad física o cognitiva.
@@ -219,7 +219,7 @@ Es el arte de **crear claridad absoluta**. Es el "esperanto" visual. No es un es
 
 ### Diseño Atemporal: Cuando tu Diseño Sobrevive a las Modas
 
-![atemporal](../src/img/atemporal.avif)
+![atemporal](../src/fundamentos/atemporal.avif)
 
 **Definición:**  
 Es el diseño que **mantiene su relevancia, funcionalidad y fuerza visual** a lo largo de décadas, resistiendo los ciclos efímeros de las tendencias.
@@ -239,7 +239,7 @@ Es el diseño que no se avergüenza de sí mismo en 10 años. No es "vintage" po
 
 ### La Simplicidad: No es un Estilo, es la Meta
 
-![Simplicidad](../src/img/Simplicidad-diseño.jpg)
+![Simplicidad](../src/fundamentos/Simplicidad-diseño.jpg)
 
 Este es el corazón de todo. La simplicidad no es "hacerlo minimalista porque está de moda". Es un **proceso de destilación** hasta llegar a la esencia pura del mensaje.
 
@@ -254,7 +254,7 @@ Este es el corazón de todo. La simplicidad no es "hacerlo minimalista porque es
 
 ### Cultura vs. Universalidad: El Equilibrio
 
-![Cultura vs. Universalidad](../src/img/Cultura-Universalidad.avif)
+![Cultura vs. Universalidad](../src/fundamentos/Cultura-Universalidad.avif)
 
 ¿Un diseño puede ser realmente universal en un mundo tan culturalmente diverso? La respuesta es sí, pero con matices.
 
@@ -295,7 +295,7 @@ Al dominar estos principios, tu trabajo dejará de ser "bonito" para convertirse
 
 ## Inspiración Creativa: De la Chispa de Da Vinci a Tu Tablero Digital
 
-![inspiración Creativa](../src/img/inspiración-Creativa.jpeg)
+![inspiración Creativa](../src/fundamentos/inspiración-Creativa.jpeg)
 
 En la última sesión hablamos de principios universales y atemporales. Hoy vamos a lo concreto: **¿de dónde diablos sacas las ideas?** La inspiración no es un rayo que cae del cielo; es un músculo que se entrena y un recurso que se cultiva. Como diseñador, tu banco de ideas no puede estar vacío. Vamos a llenarlo con método y curiosidad.
 
@@ -305,14 +305,14 @@ Piensa en la inspiración como el oxígeno para tu creatividad. Sin ella, el fue
 
 ### El Boceto: El Gesto que Cambia el Mundo
 
-![El Boceto](../src/img/El-Boceto.jpg)
+![El Boceto](../src/fundamentos/El-Boceto.jpg)
 
 Todo comienza con un trazo. Un garabato. Una idea cruda.
 
 **El caso Da Vinci:**  
 Hace más de 500 años, Leonardo dibujó en un cuaderno un artefacto con un tornillo aéreo. No tenía motores, ni materiales ligeros, ni siquiera la física completamente clara. Era solo un **boceto**. Esa idea, ese *"¿y si...?"* visual, fue la semilla del helicóptero moderno.
 
-![boceto davinci](../src/img/boceto-davinci.webp)
+![boceto davinci](../src/fundamentos/boceto-davinci.webp)
 
 **La lección para ti:**  
 Tu boceto de hoy, esa interfaz que dibujas en una servilleta o ese logotipo que garabateas en el margen de una libreta, **puede ser el precursor de algo grande**. No subestimes el poder de plasmar una idea, por simple que sea. El boceto no es el final; es el **primer sí** a una posibilidad.
@@ -321,7 +321,7 @@ Tu boceto de hoy, esa interfaz que dibujas en una servilleta o ese logotipo que 
 
 ### La Evolución: Cómo una Idea Creció
 
-![proceso boceto](../src/img/proceso-boceto.avif)
+![proceso boceto](../src/fundamentos/proceso-boceto.avif)
 
 La idea de Da Vinci no despegó de la noche a la mañana. Durmiente durante siglos, fue despertada por:
 
@@ -336,7 +336,7 @@ Tu primer concepto nunca es el definitivo. Evolucionará con **los feedbacks, la
 
 ### Tus Dos Fuentes de Oxígeno Digital: Behance vs. Pinterest
 
-![Behance vs. Pinterest](../src/img/Behance-vs-Pinterest.png)
+![Behance vs. Pinterest](../src/fundamentos/Behance-vs-Pinterest.png)
 
 Necesitas alimentar tu cerebro con lo mejor. Estas dos plataformas son tus bibliotecas visuales principales, pero cada una tiene una personalidad distinta.
 
@@ -351,7 +351,7 @@ Necesitas alimentar tu cerebro con lo mejor. Estas dos plataformas son tus bibli
 
 ### Dominando Pinterest: Tu Mapa del Tesoro Visual
 
-![Pinterest](../src/img/Pinterest-thrends.webp)
+![Pinterest](../src/fundamentos/Pinterest-thrends.webp)
 
 Pinterest es más que una red social; es una **herramienta de investigación visual**. Así se usa como un profesional:
 
@@ -364,7 +364,7 @@ Pinterest es más que una red social; es una **herramienta de investigación vis
 
 ### El Salto a la Innovación: No Inventes, Recombina
 
-![Innovación](../src/img/Innovacion-Circuitos.jpg)
+![Innovación](../src/fundamentos/Innovacion-Circuitos.jpg)
 
 La innovación rara vez es crear de la nada. Es **conectar puntos que nadie había unido**.
 
@@ -415,7 +415,7 @@ Guarda este proceso. Repítelo para cada nuevo proyecto. Pronto, la "falta de id
 
 ## Behance
 
-![Behance](../src/img/behance-3.svg)
+![Behance](../src/fundamentos/behance-3.svg)
 
 ### Tu Vitrina Profesional en el Mundo Creativo
 
@@ -427,7 +427,7 @@ Piensa en Behance como tu **portfolio digital vivo**, tu tarjeta de presentació
 
 ### Behance vs. El Resto: La Diferencia que Importa
 
-![Behance vs. El Resto](../src/img/Behance-vs-world.jpg)
+![Behance vs. El Resto](../src/fundamentos/Behance-vs-world.jpg)
 
 **Behance no es una red social cualquiera.** Es una **plataforma de *casos de estudio* visuales**.
 
@@ -442,7 +442,7 @@ Piensa en Behance como tu **portfolio digital vivo**, tu tarjeta de presentació
 
 ### El Arte de Publicar: No Subas Imágenes, Cuenta Historias
 
-![Behance historias](../src/img/behance-historias.jpg)
+![Behance historias](../src/fundamentos/behance-historias.jpg)
 
 Publicar en Behance no es subir una imagen y ponerle "Hecho". Es **narrar tu proceso**. Así se hace:
 
@@ -461,7 +461,7 @@ Publicar en Behance no es subir una imagen y ponerle "Hecho". Es **narrar tu pro
 
 ### Behance como Motor de Tu Carrera: Más que "Me Gusta"
 
-![Behance como Motor de Tu Carrera](../src/img/Behance-Tu-Carrera.png)
+![Behance como Motor de Tu Carrera](../src/fundamentos/Behance-Tu-Carrera.png)
 
 Esta plataforma es tu **asesor de carrera, tu cazatalentos y tu red de contactos**, todo en uno.
 
@@ -473,7 +473,7 @@ Esta plataforma es tu **asesor de carrera, tu cazatalentos y tu red de contactos
 
 ### La Estrategia: Cómo Gestionar un Portafolio que Atrape
 
-![Portafolio que Atrape](../src/img/behance-Portafolio.png)
+![Portafolio que Atrape](../src/fundamentos/behance-Portafolio.png)
 
 Un perfil descuidado hace más daño que no tenerlo. Sigue esta disciplina:
 
@@ -518,96 +518,356 @@ En la próxima sesión, cerraremos este módulo hablando de **cómo traducir tod
 
 ---
 
-## Tu Proyecto Final: Donde la Pasión se Encuentra con la Profesión
+## Composición Visual: El Ojo Entrenado del Director de Arte
 
-Has llegado al momento culminante. No es un examen; es tu **primer gran brief profesional**. Todo lo que has aprendido—desde el primer boceto hasta las leyes de Gestalt, desde la teoría del color hasta la narrativa de Behance—converge aquí. Este proyecto no es el final de tu aprendizaje; es la **puesta en escena** de todo lo que ya sabes.
+![Composición Visual](../src/fundamentos/composicion-narrativa-visual.jpg)
 
-Definir tu proyecto final es el acto más importante. No se trata de hacer "algo bonito". Se trata de **aplicar con propósito** el verdadero significado del diseño: comunicar mucho con poco, ser universal y centrarse absolutamente en el usuario.
+Has aprendido a manejar el color, la tipografía y la estructura. Has explorado la psicología de la Gestalt y la diferencia entre arte y diseño. Pero hay una habilidad que lo reúne todo, que separa al aficionado del profesional: **la capacidad de mirar una imagen y entender por qué funciona o por qué falla.**
+
+Hoy no hablamos de herramientas ni de procesos. Hablamos de **educar tu ojo**. La composición visual no es una fórmula matemática; es un **lenguaje silencioso** que tu cerebro ya conoce instintivamente. Mi trabajo es hacerte consciente de él para que puedas usarlo con intención.
 
 ---
 
-### Elige tu Campo de Juego: La Pasión como Cimiento
+### Los Tres Pilares de la Mirada Profesional
+
+Cuando observas una imagen bien compuesta, tu ojo no se desplaza al azar. Sigue una **coreografía invisible** diseñada por el creador. Esa coreografía se construye sobre tres pilares fundamentales:
+
+#### a) El Equilibrio: No es Simetría, es Peso
+
+![equilibrio](../src/fundamentos/equilibrio.jpg)
 
 **Definición técnica:**  
-Seleccionar un tema con el que tengas una afinidad personal y una conexión emocional genuina.
+La distribución del **peso visual** de los elementos en el espacio. No se trata de que todo sea perfectamente simétrico, sino de que **nada "pese" demasiado** en un solo lado.
 
 **En cristiano:**  
-Tienes que **querer pasar horas** pensando en esto. Tu motivación será tu combustible cuando llegues al bloqueo creativo.
+Tu cerebro tiene un sensor de gravedad incorporado. Si una imagen se siente inclinada, torcida o a punto de caerse, algo falla. El equilibrio visual es engañoso: un elemento pequeño pero muy oscuro puede "pesar" lo mismo que uno grande pero muy claro. Tu trabajo es **contrapesar**.
 
-**Cómo hacerlo bien:**
+*   **Ejemplo cotidiano:** Piensa en un móvil colgado sobre una cuna. Las piezas no son iguales, pero el sistema entero flota en armonía. **Eso** es equilibrio.
 
-*   **Escucha tu curiosidad:** ¿Qué te hace detenerte a mirar? ¿Logotipos de equipos deportivos? ¿El packaging en la tienda de cosméticos? ¿Las interfaces de apps de música? **Eso** es tu pista.
-*   **Ejemplo:** La **NBA**. Es un tema perfecto: tiene una paleta de colores vibrante, una tipografía con carácter, fotografía en acción y una narrativa de innovación, fuerza y comunidad. Es un **ecosistema visual rico**.
-*   **Tu misión:** Encuentra **tu NBA**. Podría ser un equipo de fútbol, una banda de música, una causa social, una marca de café local, un videojuego, un movimiento artístico. Algo que **te haga sentir algo**.
+#### b) La Alineación: El Esqueleto Invisible
 
----
+![alienacion](../src/fundamentos/alineacion.jpg)
 
-### La Fase de Investigación: Tu Banco de Combustible Visual
+**Definición técnica:**  
+La disposición de los elementos respecto a **líneas guía** implícitas o explícitas que crean orden y conexión.
 
-Con el tema elegido, es hora de alimentar tu cerebro. No empieces a diseñar desde el vacío. **Satura tu mente con referencias.**
+**En cristiano:**  
+Es como cuando ordenas los libros en una estantería. Si están todos torcidos, no sabes por dónde empezar a mirar. Si están alineados, tu ojo **respira** y encuentra lo que busca. La alineación le dice al espectador: "Aquí hay orden. Esto es confiable".
 
-**Tu Kit de Herramientas de Investigación:**
+#### c) La Disposición: El Director de Escena
 
-*   **Pinterest: El Cazador de Sensaciones.**
-    *   **Crea tableros *hiper-específicos*:** No solo "Diseño Deportivo". Mejor: "Paletas NBA años 90", "Tipografía agresiva baloncesto", "Fotografía de acción congelada", "Merchandising deportivo retro".
-    *   **Recolecta sin juzgar:** Guarda todo lo que genere un destello, aunque no sepas por qué. Más tarde encontrarás el patrón.
-*   **Behance: El Analista de Estrategias.**
-    *   **Busca proyectos de *identidad* y *campaigns*:** Analiza **cómo** otros diseñadores han abordado temas similares. ¿Cómo estructuraron el proyecto? ¿Qué aplicaciones mostraron?
-    *   **Toma notas sobre el *proceso*:** No copies el estilo; aprende de la metodología. ¿Cómo pasaron del concepto a las aplicaciones finales?
 
-**El objetivo no es plagiar. Es entender el lenguaje visual de tu tema para luego poder hablar en él con tu propio acento.**
+![Disposición](../src/fundamentos/Disposición.jpg)
 
----
+**Definición técnica:**  
+La ubicación estratégica de los elementos para **guiar la mirada** y crear una narrativa visual.
 
-### Escribe tu Brief Creativo
+**En cristiano:**  
+No todo tiene que estar en el centro. De hecho, el centro suele ser el lugar más aburrido. Colocar a tu sujeto a un lado, dejando espacio hacia donde mira, crea **tensión narrativa**. Es como en el cine: si un actor mira hacia la izquierda, el director de fotografía deja aire a la izquierda. No es casualidad; es **dirección de mirada**.
 
-Antes de un solo trazo, define las reglas del juego. Este es tu brief personal. Responde estas preguntas:
-
-1.  **¿Cuál es el PROBLEMA o OPORTUNIDAD?** (Ej: "La identidad visual del equipo X es genérica y no refleja la energía de su afición").
-2.  **¿Quién es el USUARIO / PÚBLICO?** (Ej: "Jóvenes entre 18-35 años, aficionados apasionados que consumen contenido en redes sociales").
-3.  **¿Cuál es el OBJETIVO PRINCIPAL?** (Ej: "Crear una identidad moderna y atemporal que genere un sentido de comunidad y sea icónica en merchandising").
-4.  **¿Cuál es el CONCEPTO CENTRAL?** (Una palabra o frase guía. Ej: "Legado en Movimiento").
-5.  **¿Qué PIEZAS VAS A CREAR?** (Sé específico: 1 logotipo principal + 2 variantes, paleta de color, sistema tipográfico, aplicación en camiseta y app móvil).
-
-**Este documento de una página será tu GPS. Te evitará perderte en la belleza de detalles sin sentido.**
+**La Ley de la Mirada:** Si tu sujeto mira hacia la derecha, debe haber más espacio a la derecha. Si miras una foto y sientes que el sujeto está "encajonado", es porque esta ley se ha violado.
 
 ---
 
-### Aplicar los Fundamentos: Donde la Magia Ocurre
+### Los Maestros: Lecciones de Composición desde el Museo
 
-Con el tema, la investigación y el brief listos, es cuando aplicas tu conocimiento con poder.
+La teoría es útil, pero la práctica de los grandes es sagrada. Analicemos cómo los maestros aplican estos principios.
 
-*   **Composición y Leyes de Gestalt:** Usa la **proximidad** para agrupar información relacionada. Usa el **contraste** para que el elemento más importante (el logo, el nombre) destaque. Usa la **simetría u orden** para dar una sensación de equilibrio y profesionalismo.
-*   **Teoría del Color:** Selecciona una paleta que **evoque la emoción correcta**. ¿Es un equipo de fútbol? Quizás colores **análogos** para armonía, o **complementarios** para máximo contraste y energía. Justifica cada elección.
-*   **Tipografía:** Combina fuentes que **cuenten la historia**. Una **Display** fuerte y angular para el nombre del equipo, una **Sans Serif** legible para la información. Que haya contraste visual y jerarquía.
-*   **Simplicidad y Universalidad:** Pregúntate en cada paso: ¿Puede entenderse esto de un vistazo? ¿Funcionaría en grande y en pequeño? **Elimina lo innecesario.**
+#### 🎨 Picasso: El Equilibrio en el Caos
+
+![Guernica](../src/fundamentos/Guernica.jpg)
+
+**"Guernica"** es un lienzo de 3,5 metros de horror y fragmentación. Y sin embargo, **está perfectamente equilibrado**.
+
+*   **¿Qué hace?** Las figuras no están simétricas, pero el peso visual de la izquierda (el toro, la madre con el niño muerto) se contrapesa con el de la derecha (la figura que clama al cielo, la luz).
+*   **Lección:** Incluso en el caos aparente, el ojo necesita un ancla. Picasso distribuye las masas de luz y sombra como un maestro de ajedrez. El desorden emocional está **organizado estéticamente**.
+
+#### 🟨 Mondrian: La Geometría como Lenguaje Universal
+
+![Mondrian](../src/fundamentos/Mondrian.webp)
+
+Piet Mondrian redujo el universo a **líneas negras, rectángulos y colores primarios**. Podría ser frío, pero es puro ritmo visual.
+
+*   **¿Qué hace?** Sus composiciones parecen simples, pero la ubicación de cada rectángulo rojo, azul o amarillo está **milimétricamente calibrada**. Si movieras un solo cuadrado, todo el cuadro se desmoronaría.
+*   **Lección:** La alineación y el equilibrio no necesitan complejidad. Unas pocas formas, bien colocadas, generan una fuerza visual inolvidable.
+
+#### 👩‍🎤 Warhol: La Repetición que Crea Armonía
+
+![Warhol](../src/fundamentos/Warhol.jpg)
+
+**"Marilyn Monroe"** no es un retrato, es un **patrón**.
+
+*   **¿Qué hace?** Warhol repite el mismo rostro una y otra vez. La composición se sostiene por la **uniformidad de la retícula**. Pero introduce pequeñas variaciones de color que rompen la monotonía y crean ritmo.
+*   **Lección:** La repetición genera equilibrio. Las variaciones controladas generan interés. Es la base del diseño de sistemas y de la identidad de marca.
+
+#### 🏢 Sagmeister & Walsh: El Espacio Negativo como Protagonista
+
+![Sagmeister & Walsh](../src/fundamentos/Sagmeister_Walsh.jpg)
+
+Este estudio neoyorquino es famoso por su **atrevimiento visual**, pero nunca a costa de la claridad.
+
+*   **¿Qué hacen?** Usan el **espacio negativo** (el vacío) para que el mensaje respire. Sus piezas son limpias, pero no aburridas. El producto o el mensaje principal siempre está **aislado y destacado**.
+*   **Lección:** No tengas miedo al vacío. El blanco no es un error; es el silencio que hace que la música se escuche.
+
+#### 💳 Mastercard: La Síntesis Suprema
+
+![Mastercard](../src/fundamentos/Mastercard.webp)
+
+Dos círculos que se intersectan. Rojo y amarillo. Eso es todo.
+
+*   **¿Qué hace?** El logo de Mastercard es un **milagro de composición**. Es simétrico, sí, pero lo importante es la **intersección**: ese espacio donde los colores se mezclan simboliza conexión, unión, transacción. En un solo gesto, comunica equilibrio y movimiento.
+*   **Lección:** Cuando llegues a la esencia, el diseño se vuelve eterno. No necesitas más elementos; necesitas **los elementos correctos, en el lugar correcto**.
 
 ---
 
-### 🧠 Este Proyecto Eres Tú
+### 🧠 Tu Ojo es tu Herramienta Más Afilada
 
-Este proyecto final es mucho más que una tarea. Es:
-1.  La **prueba de fuego** de que puedes guiar un proceso de diseño de principio a fin.
-2.  La **piedra angular** de tu portafolio profesional.
-3.  La **declaración personal** de tu mirada y tus intereses como diseñador.
+Hoy has aprendido a **ver con intención**:
+1.  **El equilibrio** no es simetría; es peso visual consciente.
+2.  **La alineación** es el orden silencioso que genera confianza.
+3.  **La disposición** es la coreografía que guía la narrativa.
+4.  **Los maestros** no son inalcanzables; son estudios de caso. Analízalos. Descompón sus reglas. Aplícalas.
 
-No busques la perfección. Busca la **coherencia, la intención y el aprendizaje**. Un proyecto con errores pero bien fundamentado y apasionado, vale más que uno perfecto pero vacío.
+Estos principios no son solo para el arte. Son para el cartel que diseñas, la interfaz que prototipas, el logo que bosquejas. La composición es el **idioma base** de toda comunicación visual.
 
 ---
 
-### 🚀 Tu Reto: El Brief de tu Pasión
+## 🔍 Tu Reto: El Detective de la Composición
 
-Es hora de materializarlo. Este es tu primer entregable.
+Es hora de entrenar tu mirada con rigor profesional.
 
-**Tu misión en esta fase:**
-1.  **Elige TU TEMA** (tu "NBA personal"). Escríbelo en grande.
-2.  **Realiza tu INVESTIGACIÓN** en Pinterest y Behance. Crea al menos un tablero de Pinterest con 20-30 referencias y encuentra 2 proyectos en Behance para analizar.
-3.  **Redacta tu BRIEF CREATIVO** personal de una página, respondiendo a las 5 preguntas clave de la sección 3.
+**Tu misión tiene tres fases:**
 
-**No diseñes nada todavía.** Esta fase de definición es la más importante. Un gran proyecto nace de una base sólida.
+1.  **Fase 1: La Caza.** Encuentra **una imagen publicitaria** (puede ser un cartel en la calle, un anuncio en Instagram, una valla publicitaria) que, a primera vista, te parezca **visualmente poderosa o extraña**.
+2.  **Fase 2: El Análisis Quirúrgico.** Dibuja (mentalmente o con un editor de imágenes) **líneas de alineación** sobre ella. Pregúntate:
+    *   ¿Dónde está el **equilibrio**? ¿Hay más peso a un lado?
+    *   ¿Qué **líneas guía** existen (implícitas o explícitas)?
+    *   ¿Se aplica la **Ley de la Mirada**? ¿Hay espacio hacia donde miran los sujetos?
+    *   ¿Cómo se usa el **espacio negativo**?
+3.  **Fase 3: La Intervención.** **Rediseña un detalle** de esa imagen para mejorar su composición. No necesitas hacer un nuevo cartel entero. Basta con mover un elemento, ajustar un margen, recortar la imagen de forma diferente. **Una sola decisión compositiva.** Compara el antes y el después.
 
-Comparte tu tema y una idea de tu concepto central. A veces, solo verbalizarlo da claridad.
+**Comparte tu hallazgo.** No se trata de demostrar que eres mejor que el diseñador original; se trata de demostrarte a ti mismo que **ya puedes identificar y aplicar principios de composición**.
 
-Más adelante hablaremos de **cómo presentar este proyecto (y todo tu trabajo) de manera profesional, construir tu portafolio definitivo y dar los primeros pasos hacia clientes o tu primer trabajo en diseño.** Estás a punto de cruzar el umbral de estudiante a practicante.
+Este es el momento en que dejas de "sentir" si algo funciona y empiezas a **saber por qué**. Y ese conocimiento es irremplazable.
+
+
+---
+
+## Gestalt Aplicada: Cuando la Psicología se Convierte en Firma Visual
+
+Hemos hablado de las leyes de la Gestalt antes. Las definimos, las clasificamos, entendimos su origen en la psicología de la percepción. Pero hoy vamos a hacer algo distinto: **vamos a verlas sangrar en el mundo real.** Porque una cosa es saber qué es la ley de cierre, y otra muy distinta es reconocerla en el logo que ves cada día en tu nevera o en el camión que te adelanta en la autopista.
+
+Hoy no aprendemos nuevas leyes. **Aprendemos a reconocer el genio cuando lo tenemos delante.**
+
+---
+
+### Ley de Proximidad: Unilever y la Magia de la "U"
+
+![ley de proximidad](../src/intro/proximidad.png)
+
+**Definición rápida:**  
+El cerebro agrupa automáticamente los elementos que están cerca entre sí. La distancia es el pegamento visual.
+
+**El caso de culto: El logo de Unilever.**
+
+![Unilever](../src/fundamentos/Unilever-Logo.png)
+
+A simple vista, ves una gran "U" formada por decenas de iconos diminutos. Una gota de agua, una flor, un pájaro, un corazón. Cada icono es independiente, pero están tan **cerca unos de otros** que tu cerebro los fusiona en una sola entidad: el logotipo de la compañía.
+
+**Por qué es brillante:**
+-   **Comunicación doble:** De cerca, descubres la diversidad de la marca (sostenibilidad, cuidado, alimentos, hogar). De lejos, solo ves la "U" poderosa e inconfundible.
+-   **La distancia como variable de diseño:** Unilever no diseñó un logo; diseñó un **sistema de percepción** que cambia según te acerques o alejes.
+
+**Tu aprendizaje:**  
+No necesitas encerrar todo en un círculo para que sea "un logo". A veces, solo necesitas **apretar los elementos** hasta que el espacio entre ellos desaparezca y el grupo hable más fuerte que las partes.
+
+---
+
+### Ley de Dirección: FedEx y la Flecha que Nunca Viste (Hasta Ahora)
+
+![Direccion](../src/fundamentos/Dirección.jpg)
+
+**Definición rápida:**  
+Los elementos dispuestos en una dirección crean un camino visual que el ojo sigue de forma natural.
+
+**El caso de culto: El logo de FedEx.**
+
+![FedEx](../src/fundamentos/Fedex-logo.png)
+
+Es probable que lo hayas visto miles de veces. Pero permíteme adivinar: **¿hoy es el día en que ves la flecha por primera vez?**
+
+Entre la "E" y la "X", el espacio negativo forma una flecha perfecta, nítida, hacia la derecha.
+
+**Por qué es brillante:**
+-   **No grita, susurra:** La flecha no está pintada; está **implícita**. Tu cerebro la descubre y se siente inteligente. Es un pequeño premio cognitivo cada vez que lo ves.
+-   **Significado puro:** FedEx es una empresa de logística. La flecha significa movimiento, dirección, velocidad, entrega. No es decoración; es **el mensaje incrustado en la forma**.
+
+**Tu aprendizaje:**  
+Las mejores soluciones no se ven a la primera. Juega con el espacio negativo. A veces, lo que **no** dibujas comunica más que lo que sí.
+
+---
+
+### Ley del Cierre: La Bombilla que tu Cerebro Enciende Solo
+
+![cierre](../src/intro/Cierre.png)
+
+**Definición rápida:**  
+El cerebro completa figuras incompletas. Prefiere un todo coherente a un montón de fragmentos.
+
+**El caso de culto: El icono de la bombilla.**
+
+![Cierre](../src/fundamentos/ley_cierre.jpg)
+
+Un cartel que solo muestra la base roscada de una bombilla y unas pocas líneas curvas insinuando el vidrio. No ves la bombilla entera, pero **tu cerebro la dibuja**.
+
+**Por qué es brillante:**
+-   **Eficiencia pura:** Menos tinta, más impacto. El espectador no es pasivo; **completa la obra**.
+-   **Memorabilidad:** Lo que tu cerebro construye, lo recuerda mejor. Un diseño que exige un microsegundo de participación se graba más hondo.
+
+**Ejemplo clásico:** El logo de la **WWF (Fondo Mundial para la Naturaleza)** . El panda no está delineado por completo. Tu cerebro cierra los espacios negros y ve la forma completa del oso. Es un icono inolvidable porque **tú lo terminaste**.
+
+**Tu aprendizaje:**  
+No subestimes la inteligencia de tu audiencia. No necesitas dibujar todo. A veces, **insinuar es más poderoso que mostrar**.
+
+---
+
+### Ley de la Semejanza: El Ejército de Triángulos y la Protección Dental
+
+![Ley de la Semejanza](../src/intro/semejanza.png)
+
+
+**Definición rápida:**  
+Elementos que comparten color, forma o textura se perciben como parte de la misma familia.
+
+**El caso icónico: Sensodyne y la sonrisa protegida con cascos de construcción.**
+
+![Semejanza](../src/fundamentos/Semejanza-1.jpg) 
+
+Un anuncio: una fila de cascos blancos perfectamente alineados. Por su forma y disposición, tu cerebro no ve cascos… ve dientes. No hay encías. No hay boca. No hay contexto clínico. Aun así, lo entiendes al instante: protección dental.
+
+No necesitas leer el texto. La imagen ya hizo el trabajo.
+
+**Por qué es brillante:**
+
+* **Ley de Semejanza:** Todos los elementos (cascos) comparten forma, color y tamaño. El cerebro los agrupa automáticamente como un solo conjunto: una dentadura.
+* **Ley de Cierre:** Aunque no hay boca dibujada, tu mente completa la forma. Percibes una sonrisa donde solo hay objetos repetidos.
+* **Analogía visual poderosa:** Casco = protección. Diente = sensibilidad. La unión de ambos conceptos comunica el beneficio del producto sin explicaciones.
+* **Figura y fondo:** El contraste extremo entre el blanco y el negro dirige toda la atención al mensaje visual.
+
+**Comunicación sin idioma:**
+Funciona en cualquier parte del mundo. No depende de texto, cultura o traducción. Es diseño universal.
+
+---
+
+**Tu aprendizaje:**
+Crea patrones visuales claros que el cerebro pueda agrupar fácilmente. Usa la semejanza para construir significado… y luego introduce una metáfora visual que conecte directamente con la promesa del producto.
+
+Cuando el concepto es fuerte, la imagen habla antes que las palabras.
+
+
+**El caso minimalista: Un rostro invisible construido con sombrero y gafas**
+
+
+![Semejanza](../src/fundamentos/Semejanza-2.jpg)
+
+
+Un anuncio: un sombrero negro de ala ancha. Debajo, unas gafas oscuras. Más abajo, apenas una insinuación de boca. No hay ojos. No hay nariz. No hay rostro completo.
+
+Y aun así… ves una persona.
+
+No necesitas más información. Tu mente completa lo que falta.
+
+**Por qué es brillante:**
+
+* **Ley de Cierre:** Aunque el rostro no está dibujado por completo, tu cerebro rellena los vacíos. Construye una cara a partir de fragmentos.
+* **Ley de Pregnancia (Buena Forma):** El diseño reduce el rostro a sus elementos esenciales. El cerebro prefiere interpretaciones simples y estables, así que organiza las formas en una figura reconocible.
+* **Uso del espacio negativo:** El fondo no es vacío; es parte activa de la composición. El “rostro” existe gracias a lo que no está dibujado.
+* **Economía visual extrema:** Con muy pocos elementos se construye identidad, misterio y narrativa.
+
+**Comunicación sin exceso:**
+No hay detalles, no hay textura compleja, no hay explicaciones. Solo las formas necesarias para que tu mente haga el resto.
+
+---
+
+**Tu aprendizaje:**
+No siempre necesitas mostrarlo todo. A veces, sugerir es más poderoso que describir.
+
+Elimina lo innecesario. Confía en que el cerebro del espectador completará la historia.
+
+En diseño, lo que omites puede ser tan importante como lo que decides mostrar.
+
+
+---
+
+### Ley de Figura y Fondo: El Jarrón que es Dos Caras
+
+![Ley de Figura y Fondo](../src/intro/Figura_y_Fondo.png)
+
+**Definición rápida:**  
+El cerebro no puede interpretar un elemento como figura y fondo al mismo tiempo. Pero puede **alternar** entre ambas lecturas.
+
+**El caso de culto: El jarrón de Rubin (o las caras de perfil).**
+
+¿Ves un jarrón blanco? ¿O ves dos rostros negros mirándose? Depende de a dónde dirijas tu atención.
+
+**Por qué es brillante:**
+-   **Diseño lúdico:** Invita al juego, a la doble lectura. No es para todo proyecto, pero cuando encaja, es inolvidable.
+-   **Eficiencia espacial:** Dos mensajes en el mismo espacio. Un solo diseño, dos interpretaciones.
+
+**Ejemplo contemporáneo:** El logo de la **Biblioteca Pública de San Francisco**. Las columnas de un edificio forman, al mismo tiempo, las páginas de un libro abierto.
+
+**Tu aprendizaje:**  
+La ambigüedad puede ser tu aliada, pero úsala con cautela. Si necesitas comunicación instantánea y clara (una señal de tráfico), evita el juego figura-fondo. Si buscas asombro y contemplación, **adelante**.
+
+---
+
+### Ley de Simetría y Asimetría: "El orden calma; el desorden, acelera"
+
+![simetria](../src/fundamentos/simetria.png)
+
+**Definición técnica:**  
+El cerebro percibe los elementos simétricos como parte de un grupo estable y armónico. La asimetría, bien utilizada, genera tensión, dinamismo y dirección.
+
+**En cristiano:**  
+La simetría es un traje clásico. La asimetría es una chaqueta con un solo botón. Ambas funcionan, pero dicen cosas distintas.
+
+**El caso visual: Los rostros y la mariposa.**
+
+![simetria](../src/fundamentos/simetria.jpg)
+
+Dos rostros de perfil, enfrentados en simetría. El espacio negativo entre ellos dibuja una mariposa con las alas abiertas. Equilibrio. Belleza. Transformación. No necesitas explicación; lo ves y lo sientes.
+
+
+
+---
+
+
+### 🧠 Las Leyes no son Teoría, son Herramientas de Firma
+
+Los casos que has visto hoy (Unilever, FedEx, WWF, la publicidad dental) comparten algo crucial: **no aplicaron las leyes de la Gestalt como un ejercicio académico**. Las aplicaron porque resolvían un problema real de comunicación de la manera más elegante posible.
+
+1.  **Proximidad:** Para crear unidad a partir de la diversidad.
+2.  **Dirección:** Para incrustar significado en el espacio negativo.
+3.  **Cierre:** Para invitar al espectador a completar la imagen.
+4.  **Semejanza:** Para establecer patrones y luego romperlos con intención.
+5.  **Figura y Fondo:** Para contar dos historias en un mismo espacio.
+
+No memorices las leyes. **Domínalas hasta que sean instinto.** Hasta que, frente a un brief, tu cerebro diga: "Aquí no necesito dibujar el contorno completo. El cierre hará el trabajo".
+
+---
+
+### 🔍 Tu Reto: El Detective de la Gestalt (Versión Maestra)
+
+Ya hiciste un primer acercamiento a las leyes. Ahora es momento de **profundizar hasta el nivel de obsesión**.
+
+**Tu misión:**
+1.  **Encuentra UN logotipo o pieza publicitaria** que utilice **al menos dos leyes de Gestalt de forma simultánea**. No vale un logo que solo use proximidad. Busca la combinación. (Ejemplo: Unilever usa **proximidad** + **cierre** para formar la U).
+2.  **Descompón el diseño en capas.** Crea un breve análisis visual donde expliques:
+    -   **Ley 1:** ¿Dónde está y cómo funciona?
+    -   **Ley 2:** ¿Dónde está y cómo se complementa con la primera?
+    -   **¿Por qué esta combinación es efectiva para esta marca/mensaje?**
+3.  **Bonus (opcional pero recomendado):** Haz un **boceto de una variante** de ese logo donde elimines una de las leyes. Demuestra visualmente por qué la versión original es superior.
+
+**Comparte tu hallazgo.** Este ejercicio no es solo para que aprendas; es para que **construyas tu propio archivo mental de referencias analizadas**. Cuando tengas 50, 100 casos desmenuzados así, ninguna ley de la Gestalt volverá a ser un concepto abstracto. Serán **tus lentes para ver el mundo**.
 
 
