@@ -1416,6 +1416,8 @@ Porque cuando las noches se hagan largas, cuando el bloqueo creativo toque a tu 
 
 ## 📂 Tu Próxima Inmersión: El Manifiesto del Brief
 
+![Brief](../src/brief/brief-2.webp)
+
 No voy a explicarte aquí todo lo que necesitas saber sobre el brief. 
 Sería como querer resumir la teoría del color en un párrafo.
 
@@ -1431,7 +1433,7 @@ Allí encontrarás:
 Esta no es una lectura superficial. 
 Es tu **entrenamiento de fondo**.
 
-👉 **[Accede aquí: El Brief — Tu Mapa para Navegar Todo Proyecto Creativo]()**
+👉 **[Accede aquí: El Brief — Tu Mapa para Navegar Todo Proyecto Creativo](../brief/creando_brief.md)** 👈
 
 Tómate tu tiempo. Léelo con un cuaderno al lado. Subráyalo. 
 Vuelve a él cada vez que recibas un encargo y no sepas por dónde empezar.
