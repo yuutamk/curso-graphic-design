@@ -1158,6 +1158,8 @@ Cuando eliminas el ruido, el concepto habla más fuerte.
 
 ### La Trinidad en Acción: Cuando los Tres se Sincronizan
 
+![trinidad](../src/fundamentos/trinidad.png)
+
 Ninguno de estos principios opera solo. Son un **sistema**.
 
 1.  **La jerarquía** decide qué es importante.
@@ -1206,6 +1208,8 @@ Encuentra **una pieza que FALLE** en alguno de estos principios. Identifica cuá
 ---
 
 ## Del Encaje al Propósito: Cuando tu Composición Necesita un Alma
+
+![composision](../src/fundamentos/composition-Kandisnky.jpg)
 
 Has entrenado el ojo. 
 
@@ -1269,6 +1273,8 @@ No es un formulario aburrido. Es la **investigación forense** que convierte una
 ---
 
 ### 🧭 La Anatomía del Mapa (Lo que Necesitas Saber Ahora Mismo)
+
+![elementos brief](../src/fundamentos/elementos-brief.jpg)
 
 Un brief no es un documento único. Es una **familia de herramientas**, como tus reglas de composición. Para cada problema, una herramienta.
 

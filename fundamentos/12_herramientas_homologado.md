@@ -1,4 +1,6 @@
-# De la Estrategia a la Materia Prima: El Taller del Diseñador
+## De la Estrategia a la Materia Prima: El Taller del Diseñador
+
+![materia prima](../src/fundamentos/materia-prima.jpg)
 
 Has cruzado el puente. 
 
@@ -14,6 +16,7 @@ Hoy entramos al taller.
 
 ## 🧰 El Diseño no Vive en el Software, Vive en Ti
 
+![El Diseño no Vive en el Software, Vive en Ti](../src/fundamentos/no-software-diseño.png)
 Repite esto hasta que te lo creas:
 
 > El software es un medio, no un fin.
@@ -31,6 +34,9 @@ Vamos a conocer el mapa completo. Luego eliges tu camino.
 ---
 
 ## 🗺️ El Archipiélago del Diseño: ¿En Qué Isla Vas a Vivir?
+
+
+![archipiélago diseño](../src/fundamentos/archipielago.webp)
 
 El diseño gráfico no es una sola disciplina. Es un **archipiélago**. Cada isla tiene su lenguaje, sus reglas y sus herramientas. Conócelas antes de decidir dónde plantar tu bandera.
 
