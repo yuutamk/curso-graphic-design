@@ -14,9 +14,10 @@ Hoy entramos al taller.
 
 ---
 
-## 🧰 El Diseño no Vive en el Software, Vive en Ti
+### 🧰 El Diseño no Vive en el Software, Vive en Ti
 
 ![El Diseño no Vive en el Software, Vive en Ti](../src/fundamentos/no-software-diseño.png)
+
 Repite esto hasta que te lo creas:
 
 > El software es un medio, no un fin.
@@ -33,7 +34,7 @@ Vamos a conocer el mapa completo. Luego eliges tu camino.
 
 ---
 
-## 🗺️ El Archipiélago del Diseño: ¿En Qué Isla Vas a Vivir?
+### 🗺️ El Archipiélago del Diseño: ¿En Qué Isla Vas a Vivir?
 
 
 ![archipiélago diseño](../src/fundamentos/archipielago.webp)
@@ -57,13 +58,15 @@ El diseñador sabio es un **especialista con visión de generalista**.
 
 ---
 
-## 🎯 El Tridente de Adobe: El Idioma Común de la Industria
+### 🎯 El Tridente de Adobe: El Idioma Común de la Industria
+
+![Trinidad adobe](../src/fundamentos/Herramientas-de-Adobe.png)
 
 Hablemos sin filtros. En la mayoría de estudios, agencias y departamentos de diseño, **Adobe es el estándar**. No es el único, no siempre es el mejor para cada tarea, pero es el que encontrarás cuando te sientes en una mesa con otros profesionales.
 
 **Los tres que cambian el juego:**
 
-### 1. Adobe Illustrator: El Lápiz Definitivo
+#### 1. Adobe Illustrator: El Lápiz Definitivo
 **Territorio:** Vector, forma, icono, logotipo, ilustración.
 
 Illustrator no es un programa. Es **una extensión de la mano del diseñador**. Todo lo que dibujas en él puede crecer al tamaño de un edificio sin perder nitidez. Si solo pudieras aprender una herramienta profesional, que sea esta.
@@ -71,7 +74,7 @@ Illustrator no es un programa. Es **una extensión de la mano del diseñador**. 
 **La filosofía:**  
 En Illustrator, no pintas. **Construyes.** Con nodos, curvas Bézier y trazados. Es lento al principio, pero cuando lo dominas, puedes dibujar cualquier cosa que imagines.
 
-### 2. Adobe Photoshop: El Laboratorio de Píxeles
+#### 2. Adobe Photoshop: El Laboratorio de Píxeles
 **Territorio:** Fotografía, textura, retoque, composición compleja.
 
 Photoshop es el gran manipulador de realidad. Puedes cambiar el clima de una foto, borrar montañas, envejecer rostros o rejuvenecerlos. No es para dibujar desde cero (aunque se puede). Es para **transformar lo que ya existe**.
@@ -79,7 +82,7 @@ Photoshop es el gran manipulador de realidad. Puedes cambiar el clima de una fot
 **La clave:**  
 Photoshop trabaja con píxeles. Amplía demasiado una imagen y verás los cuadritos. Eso no es un error; es su naturaleza. Úsalo cuando necesites **textura, atmósfera, realismo**.
 
-### 3. Adobe InDesign: El Arquitecto de Páginas
+#### 3. Adobe InDesign: El Arquitecto de Páginas
 **Territorio:** Múltiples páginas, libros, revistas, informes.
 
 InDesign no es para hacer una página bonita. Es para hacer **50 páginas coherentes**. Maneja flujos de texto, estilos en cadena, numeración automática. Es el héroe invisible del diseño editorial.
@@ -89,20 +92,32 @@ Estos tres programas **hablan entre sí**. Copias un trazado de Illustrator, lo 
 
 ---
 
-## 🌍 El Universo Paralelo: Herramientas Libres que Rompen el Molde
+### 🌍 El Universo Paralelo: Herramientas Libres que Rompen el Molde
 
 Aquí viene lo que pocos mentores te cuentan: **no necesitas una suscripción a Adobe para ser diseñador.**
 
 Existe un ecosistema completo de herramientas gratuitas, de código abierto, sostenidas por comunidades apasionadas. Son tan poderosas como sus equivalentes comerciales. Solo requieren una cosa: **que aprendas a usarlas con la misma dedicación**.
 
-### Vector: Inkscape (el heredero de Illustrator)
+![herramientas libres](../src/fundamentos/alternativas-a-las-Adobe.webp)
+
+#### Vector: Inkscape (el heredero de Illustrator) 
+
+<img src="../src/fundamentos/Inkscape_Logo.svg.png" width=200px height=200px alt="inkscape logo">
+
+
+
 **Qué es:** El taller de carpintería fina del vector. Gratuito, con más de 20 años de desarrollo.
 
 **Qué puedes hacer:** Logotipos, ilustraciones, iconos, diagramas. Todo lo que harías en Illustrator, pero sin pagar un euro.
 
 **La verdad:** La interfaz es menos pulida. Los atajos son distintos. Pero **los principios vectoriales son idénticos**. Si entiendes cómo funciona un nodo, Inkscape es solo cuestión de práctica.
 
-### Píxel: GIMP (el heredero de Photoshop)
+#### Píxel: GIMP (el heredero de Photoshop)
+
+<img src="../src/fundamentos/gimp-logo.png" width=200px  alt="gimp logo">
+
+
+
 **Qué es:** El gran veterano. Durante años fue "casi Photoshop". Hoy es Photoshop con otra personalidad.
 
 **Qué puedes hacer:** Retoque fotográfico profesional, composiciones, montajes, máscaras, capas.
@@ -111,33 +126,50 @@ Existe un ecosistema completo de herramientas gratuitas, de código abierto, sos
 
 **Alternativa exprés:** **Photopea**. Gratuito, en el navegador. Para abrir un archivo de Photoshop sin instalar nada, es tu salvavidas.
 
-### Maquetación: Scribus (el heredero de InDesign)
+#### Maquetación: Scribus (el heredero de InDesign)
+
+<img src="../src/fundamentos/Scribus_logo.svg.png" width=200px height=200px alt="scribus logo">
+
+
+
 **Qué es:** El gran desconocido. La herramienta profesional libre para diseño editorial.
 
 **Qué puedes hacer:** Revistas, libros, catálogos, folletos, PDF interactivos.
 
 **La verdad incómoda:** No es tan intuitivo como InDesign. La gestión tipográfica requiere paciencia. Pero **para flujos editoriales con presupuesto cero, no hay competencia**. Aprender Scribus es entender la maquetación desde sus cimientos.
 
-### Ilustración Digital: Krita (el heredero de Procreate)
+#### Ilustración Digital: Krita (el heredero de Procreate)
+
+<img src="../src/fundamentos/krita-logo.svg" width=200px height=200px alt="krita logo">
+
 **Qué es:** Nacido para ilustradores y concept artists. Una bestia pintora.
 
 **Qué puedes hacer:** Ilustración digital, cómic, texturas, pinceles personalizados, animación cuadro por cuadro.
 
 **El detalle:** Está optimizado para **tabletas gráficas**. La sensibilidad a la presión y la biblioteca de pinceles rivalizan con software de pago. Si dibujas, este es tu hogar.
 
-### Motion y Video: DaVinci Resolve + Blender
+#### Motion y Video: DaVinci Resolve + Blender
+
+<img src="../src/fundamentos/DaVinci_Resolve_logo.png" width=200px height=200px alt="DaVinci Resolve logo">
+
 **DaVinci Resolve (gratuito):** Edición de video profesional, corrección de color de nivel Hollywood, motion graphics básicos. La industria del cine lo usa. Punto.
+
+<img src="../src/fundamentos/Blender_logo.svg.png" width=200px  alt="Blender logo">
 
 **Blender (gratuito):** 3D, pero también animación 2D con Grease Pencil. Es un universo entero por explorar.
 
-### Prototipado: Penpot (el heredero libre de Figma)
+
+#### Prototipado: Penpot (el heredero libre de Figma)
+
+<img src="../src/fundamentos/penpot-logo.webp" width=200px height=200px alt="penpot logo">
+
 **Qué es:** Figma, pero de código abierto. Colaboración en tiempo real, componentes, sistemas de diseño.
 
 **Qué puedes hacer:** Wireframes, prototipos interactivos, bibliotecas de componentes. Y todo respetando tu privacidad.
 
 ---
 
-## ⚖️ La Gran Pregunta: ¿Adobe o Herramientas Libres?
+### ⚖️ La Gran Pregunta: ¿Adobe o Herramientas Libres?
 
 No hay respuesta única. Hay **respuesta para ti**.
 
@@ -159,7 +191,7 @@ El software se actualiza, cambia, muere. **Tu criterio, no.**
 
 ---
 
-## 🧠 Las Habilidades que el Software No te Enseña
+### 🧠 Las Habilidades que el Software No te Enseña
 
 Puedes dominar Illustrator, Photoshop, Figma y After Effects. Puedes recitar la teoría del color de memoria. Puedes construir cuadrículas perfectas.
 
@@ -175,7 +207,7 @@ Y aún así, **fracasar como diseñador** si te faltan estas habilidades:
 
 ---
 
-## 🛠️ Tu Reto: La Primera Pieza con Conciencia de Herramienta
+### 🛠️ Tu Reto: La Primera Pieza con Conciencia de Herramienta
 
 Este ejercicio tiene un objetivo: **que dejes de pensar en el software y empieces a sentir la herramienta como una extensión de tu mano**.
 
@@ -202,7 +234,10 @@ Si eliges herramienta libre, publica tu pieza en Behance o en tu portfolio con u
 
 ---
 
-## 🌅 Cierre: El Taller Está Abierto
+### 🌅 El Taller Está Abierto
+
+
+![El Taller Está Abierto](../src/fundamentos/taller-abierto.jpg)
 
 Has llegado lejos. Muy lejos.
 
